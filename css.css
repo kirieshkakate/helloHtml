@@ -9,7 +9,14 @@
 
 h1 {
 	color: red;
+	text-align: center;
+
 }
 p.katya {
 	background: yellow;
+}
+/*hhha*/
+header {
+	background: blue;
+	height: 100px;
 }
